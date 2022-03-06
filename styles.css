@@ -1,0 +1,39 @@
+body {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+.container {
+  padding-top: 50px;
+  max-width: 1000px;
+  margin: auto;
+}
+.body img {
+  padding: 20px;
+  max-width: 100%;
+  height: auto;
+}
+.body p {
+  line-height: 1.5;
+}
+.body li {
+  line-height: 1.5;
+}
+.block {
+  border-left: 5px solid rgb(70, 152, 246);
+  padding: 0 12px 0 12px;
+}
+.upLine {
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  width: 50px;
+  height: 50px;
+}
